@@ -1,0 +1,11 @@
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
+*.pkl
+*.onnx
+.venv/
+venv/
+datascience_env/
+*.csv
+*.xlsx
+.DS_Store
